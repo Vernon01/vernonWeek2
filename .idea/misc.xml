@@ -75,6 +75,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/moduleOne/pom.xml" />
+        <option value="$PROJECT_DIR$/moduleTwo/pom.xml" />
+        <option value="$PROJECT_DIR$/moduleThree/pom.xml" />
+        <option value="$PROJECT_DIR$/moduleFour/pom.xml" />
       </list>
     </option>
   </component>

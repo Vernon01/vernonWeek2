@@ -6,8 +6,15 @@ package ac.za.cput;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public double sum()
     {
-        System.out.println( "Hello World!" );
+        double one = 34;
+        double two = 78;
+
+        double ans = 0;
+
+        ans = one + two;
+
+        return ans;
     }
 }

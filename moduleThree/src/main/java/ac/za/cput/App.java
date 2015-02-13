@@ -6,8 +6,14 @@ package ac.za.cput;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public double subtract()
     {
-        System.out.println( "Hello World!" );
+        double one = 56;
+        double two = 23;
+        double ans = 0;
+
+        ans = one - two;
+
+        return ans;
     }
 }

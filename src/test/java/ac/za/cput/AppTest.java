@@ -81,7 +81,7 @@ public class AppTest
     }
 
 
-    @org.junit.Test
+    @org.junit.Test(timeout=100)
     public void testArray1() throws Exception
     {
         String[] arr1 = new String[]{"never", "give", "up"};
